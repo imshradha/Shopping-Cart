@@ -1,8 +1,5 @@
 # Shopping-Cart
 
-Email
-*
-shraddha824swan@gmail.com
 Assignment
 
 You need to create a cross-platform (android, iOS & Web) single-page application; Refer to the following Figma designs 
